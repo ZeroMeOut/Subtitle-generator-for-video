@@ -6,7 +6,7 @@ A requirements.txt file would be added later
 
 Use "streamlit run app.py" in the directory to start the app
 
-There is a small demo 
+There is a small demo:
 https://user-images.githubusercontent.com/63326326/236984035-dd1d1f73-9d96-47a0-852e-d3098d405c02.mp4
 
 # Some problems to note
