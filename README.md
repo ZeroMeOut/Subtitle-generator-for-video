@@ -16,5 +16,11 @@ First, it would show an error if the two chosen languages are the same. I would 
 Secondly depending on your region, some translators may not work (Looking at you Google cuz I'm in China rn). Bing is the most consistent for me.
 
 
+# Other notes
 
+Other languages and translators can be added to the webapp via the dict.py file.
+
+Check out https://pypi.org/project/translators/ for some of the translators and languages you can add
+
+Also feel free to change this however you like (Incresing the file upload would be nice) :)
 
